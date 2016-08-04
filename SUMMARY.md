@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Android thread](android-thread.md)
+* [Android多线程开发](android-thread.md)
 

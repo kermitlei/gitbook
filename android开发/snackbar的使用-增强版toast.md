@@ -1,4 +1,4 @@
-# Snackbar的使用-增强版Toast
+# ![](assets/snakbar.gif)Snackbar的使用-增强版Toast
 
 **SnackBar**是 **Android Support Library 22.2.0** 里面新增提供的一个控件,可以把它理解成一个加强版的Toast，或者是一个轻量级的Dialog。
 

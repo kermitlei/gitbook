@@ -6,7 +6,7 @@ SnackBar默认从屏幕底部弹出，像Toast一样会自动消失，当然也�
 
 ## Snackbar的效果如何呢？
 
-```java
+```
 
 ```
 
